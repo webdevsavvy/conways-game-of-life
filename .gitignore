@@ -56,3 +56,4 @@ dkms.conf
 
 # Game of Life Binary
 gol
+gol_debug
